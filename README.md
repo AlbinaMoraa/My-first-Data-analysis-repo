@@ -1,7 +1,7 @@
 # Project Name: Financial Sample Data
 
 ----
-# Project Objective: To assess avarage products sold and manufacturing prices, as well as discount band provided by each segment. 
+# Project Objective: To assess average products sold and manufacturing prices, as well as discount band provided by each segment. 
 
 ----
 # Data Sourcing
